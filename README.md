@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dobrywieczorek
 - 👀 I’m interested in life
 - 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on life
+- 💞️ I’m not looking to collaborate on life
 - 📫 How to reach me in real life
 
 <!---
